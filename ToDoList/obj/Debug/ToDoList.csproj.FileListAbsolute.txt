@@ -1,0 +1,7 @@
+C:\Users\kalas\OneDrive\Desktop\asp.net\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\kalas\OneDrive\Desktop\asp.net\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\kalas\OneDrive\Desktop\asp.net\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\kalas\OneDrive\Desktop\asp.net\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\kalas\OneDrive\Desktop\asp.net\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\kalas\OneDrive\Desktop\asp.net\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\kalas\OneDrive\Desktop\asp.net\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
